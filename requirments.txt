@@ -1,0 +1,12 @@
+pyvisa
+pyvisa-py
+numpy
+matplotlib
+scipy
+tkinter
+csv
+threading
+time
+os
+sys
+math
